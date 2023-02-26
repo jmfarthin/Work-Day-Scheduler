@@ -21,13 +21,9 @@ This planner's date is updated daily using dayjs. After a user enter's a task in
 
 ### Screenshots of deployed website:
 
-![Code quiz website 1](./assets/images/codequiz1.png)
-![Code quiz website 2](./assets/images/codequiz2.png)
-![Code quiz website 3](./assets/images/codequiz3.png)
-![Code quiz website 4](./assets/images/codequiz4.png)
-![Code quiz website 5](./assets/images/codequiz5.png)
-![Code quiz website 6](./assets/images/codequiz6.png)
-![Code quiz website 7](./assets/images/codequiz7.png)
+![Work Day Scheduler website 1](./Assets/images/work-day-scheduler1.png)
+![Work Day Scheduler website 2](./Assets/images/work-day-scheduler2.png)
+
 
 ## Credits
 
