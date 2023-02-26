@@ -50,6 +50,7 @@ $(function () {
       task = "task" + index;
       console.log(task);
       localStorage.setItem(task, activity);
+      
     })
 
     // console.log(localStorage.getItem("task1"));
