@@ -1,4 +1,4 @@
-// Wrap all code that interacts with the DOM in a call to jQuery to ensure that
+// All code that interacts with the DOM in a call to jQuery is wrapped to ensure that
 // the code isn't run until the browser has finished rendering all the elements
 // in the html.
 
@@ -50,7 +50,7 @@ $(function () {
       task = "task" + index;
       console.log(task);
       localStorage.setItem(task, activity);
-      
+
     })
 
     // console.log(localStorage.getItem("task1"));
